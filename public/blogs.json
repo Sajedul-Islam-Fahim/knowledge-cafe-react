@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+        "title": "The Art of Minimalism",
+        "author": "Sophia Clark",
+        "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "posted_date": "2024-10-25",
+        "reading_time": 5,
+        "hashtags": ["#minimalism", "#design", "#lifestyle"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "title": "Exploring the Future of AI",
+        "author": "Liam Johnson",
+        "author_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+        "posted_date": "2024-10-22",
+        "reading_time": 7,
+        "hashtags": ["#AI", "#technology", "#innovation"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://images.unsplash.com/photo-1542831371-d531d36971e6",
+        "title": "A Guide to Sustainable Living",
+        "author": "Emma Martinez",
+        "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+        "posted_date": "2024-10-18",
+        "reading_time": 6,
+        "hashtags": ["#sustainability", "#eco", "#green"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+        "title": "The Rise of Remote Work",
+        "author": "Noah Lee",
+        "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "posted_date": "2024-10-15",
+        "reading_time": 8,
+        "hashtags": ["#remotework", "#futureofwork", "#productivity"]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+        "title": "Mastering Digital Marketing",
+        "author": "Olivia Kim",
+        "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+        "posted_date": "2024-10-12",
+        "reading_time": 10,
+        "hashtags": ["#digitalmarketing", "#SEO", "#content"]
+    }
+]
